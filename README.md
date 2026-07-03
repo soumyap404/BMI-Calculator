@@ -1,4 +1,7 @@
 # BMI-Calculator
+
+live here =https://soumyap404.github.io/BMI-Calculator/
+
 This is a simple Body Mass Index (BMI) Calculator built using HTML, CSS, and JavaScript — perfect for beginners who want to practice form handling, basic calculations, and responsive UI design.
 ✨ Features
 💡 Calculates BMI from user input (height & weight)
